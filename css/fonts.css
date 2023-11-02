@@ -1,0 +1,36 @@
+@font-face {
+    font-family: 'Poppins';
+    src: url('../fonts/poppins/Poppins-Regular.eot');
+    src: url('../fonts/poppins/Poppins-Regular.eot') format('embedded-opentype'),
+        url('../fonts/poppins/Poppins-Regular.woff2') format('woff2'),
+        url('../fonts/poppins/Poppins-Regular.woff') format('woff'),
+        url('../fonts/poppins/Poppins-Regular.ttf') format('truetype'),
+        url('../fonts/poppins/Poppins-Regular.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Inter';
+    src: url('../fonts/inter/Inter-Regular.eot');
+    src: url('../fonts/inter/Inter-Regular.eot') format('embedded-opentype'),
+        url('../fonts/inter/Inter-Regular.woff2') format('woff2'),
+        url('../fonts/inter/Inter-Regular.woff') format('woff'),
+        url('../fonts/inter/Inter-Regular.ttf') format('truetype'),
+        url('../fonts/inter/Inter-Regular.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Cabin';
+    src: url('../fonts/cabin/Cabin-Regular.eot');
+    src: url('../fonts/cabin/Cabin-Regular.eot') format('embedded-opentype'),
+        url('../fonts/cabin/Cabin-Regular.woff2') format('woff2'),
+        url('../fonts/cabin/Cabin-Regular.woff') format('woff'),
+        url('../fonts/cabin/Cabin-Regular.ttf') format('truetype'),
+        url('../fonts/cabin/Cabin-Regular.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
